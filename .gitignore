@@ -16,3 +16,4 @@ keys/
 
 # Foundry runtime artifacts (may include tx calldata/account metadata)
 broadcast/
+.DS_Store
